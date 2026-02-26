@@ -2,7 +2,7 @@
 -- VERSION SANS FLAG - SE LANCE À CHAQUE FOIS
 -- =====================================================
 
-local targetJobId = "7e0275e7-682f-4745-9d83-15abab9b4c7c"
+local targetJobId = "3f756bfb-4328-43df-9d5a-2bcf15cc88f8"
 
 -- =====================================================
 -- ÉCRAN NOIR + FREEZE RENFORCÉ (version plus fiable 2026)
@@ -333,4 +333,5 @@ if teleporter then
     end
    
     tryTeleport()
+
 end
